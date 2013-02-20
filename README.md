@@ -1,0 +1,4 @@
+MA-XML-5.0-CZECH
+================
+
+MIUIv5 XML CZECH TRANSLATION
