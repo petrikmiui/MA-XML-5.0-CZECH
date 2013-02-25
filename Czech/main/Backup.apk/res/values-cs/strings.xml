@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="account_contact_backup_info">Data (Xiaomi, Gmail a Email. Účty a kontakty budou uložené spolu.)</string>
     <string name="account_login">Přihlásit se</string>
     <string name="account_summary">zálohovat Gmail, Email a Xiaomi účet</string>
     <string name="already_enable_encrypt">Šifrování zapnuto</string>
     <string name="app_name">Zálohování</string>
     <string name="auto_backup">Automatické zálohování</string>
+    <string name="auto_backup_all_user_apps">Všechny App</string>
     <string name="auto_backup_date">Frekvence zálohy (dny)</string>
     <string name="auto_backup_choose">Seznam záloh</string>
     <string name="auto_backup_choose_empty">Žádná záloha</string>
@@ -12,12 +14,18 @@
     <string name="auto_backup_only_wifi">Použít pouze WIFI</string>
     <string name="auto_backup_open">Povolit automatické zálohování</string>
     <string name="auto_backup_progress">Probíhá automatická záloha, počkejte prosím\u2026</string>
+    <string name="auto_backup_select_user_apps">Vyberte App</string>
+	<string name="auto_backup_selected_user_apps">Vybrané App</string>
     <string name="auto_backup_setting">Nastavení auto-zálohování</string>
+    <string name="auto_backup_system_data">Systém</string>
     <string name="auto_backup_time">Plán zálohování</string>
+    <string name="auto_backup_user_data">Aplik.</string>
     <string name="backup">Záloha</string>
-    <string name="backup_delete">Smazat</string>
+    <string name="backup_data">Zálohovat data</string>
+	<string name="backup_delete">Smazat</string>
     <string name="backup_empty">Žádná záloha nebyla nenalezena!</string>
-    <string name="backup_error">Chyba zálohy</string>
+    <string name="backup_empty_info">Zálohujte svoje data, nastavení a aplikace</string>
+	<string name="backup_error">Chyba zálohy</string>
     <string name="backup_failed">Zálohování selhalo! Zkusit znovu</string>
     <string name="backup_file_error">Nastal problém se zálohou, operace není dokončena.</string>
     <string name="backup_finished">Záloha hotova</string>
@@ -87,7 +95,8 @@
     <string name="local_home_title">Na SD kartě</string>
     <string name="local_no_backup">Žádná místní záloha</string>
     <string name="local_restore_window_title">Obnova z SD karty</string>
-    <string name="local_select_sysdata">Systémová data</string>
+    <string name="local_select_account_contact">Účty a kontakty</string>
+	<string name="local_select_sysdata">Systémová data</string>
     <string name="local_select_userapp">Aplikace</string>
     <string name="menu_patch_delete">Smazat zálohy</string>
     <string name="miliao_account_guide">"Účet MiTalk byl povýšen na účet Xiaomi\n Užijte si všechny dostupné online služby"</string>
@@ -110,7 +119,9 @@
     <string name="restore_contact_content">"Obnovou těchto kontaktů můžou vzniknout duplicity:\nPOZNÁMKA:Tyto kontakty můžete sloučit v nastavení."</string>
     <string name="restore_contacts_hit">(Poznámka: Kontakt musí existovat, aby k němu mohly být obnoveny všechny údaje)</string>
     <string name="restore_counts">Obnovení:</string>
-    <string name="restore_finished">Obnova dokončena</string>
+    <string name="restore_data">Obnovit data</string>
+	<string name="restore_failed">Obnovení selhalo.</string>
+	<string name="restore_finished">Obnova dokončena</string>
     <string name="restore_launcher_layout_hit">(Poznámka: Aplikace, které nejsou nainstalovány zanechají prázdné ikony. Ikony odstraníte přetažením do koše)</string>
     <string name="restore_progress">Obnovuji..</string>
     <string name="restore_report">Hlášení obnovy</string>
@@ -130,13 +141,17 @@
     <string name="sdcard_no_enough_space_message">Záloha se nemusí provést, uvolněte místo a zkuste to znovu</string>
     <string name="sdcard_unmounted">SD karta nenalezena nebo odpojena !</string>
     <string name="select_all">Vybrat vše</string>
-    <string name="service_stoped">Zastavení služby</string>
+    <string name="select_backup_item">Zvolte zálohu</string>
+	<string name="service_stoped">Zastavení služby</string>
     <string name="settings_summary">(Základní nastavení a vše související)</string>
     <string name="sms_title">SMS</string>
-    <string name="start_backup">Spustit zálohu</string>
+    <string name="software_backup_info">Zálohovat aplikace a jejich data</string>
+	<string name="start_backup">Spustit zálohu</string>
     <string name="start_restore">Obnovit</string>
     <string name="succeed">Dokončeno</string>
-    <string name="task_backup_cancel_progress">Probíhá rušení\u2026</string>
+    <string name="system_backup">Záloha systému</string>
+	<string name="system_backup_info">Nastavení systému a plochy.</string>
+	<string name="task_backup_cancel_progress">Probíhá rušení\u2026</string>
     <string name="task_backup_finished_local">Zálohování dokončeno</string>
     <string name="task_canceled">Stornováno</string>
     <string name="task_canceled_all_local">Zrušit všechny úlohy</string>
