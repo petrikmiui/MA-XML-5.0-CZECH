@@ -38,6 +38,7 @@
     <string name="clear_all_calllog">Smazat log hovorů</string>
     <string name="clear_all_mslog">Smazat log zpráv</string>
     <string name="close_rule">Zakázat pravidla firewallu.</string>
+    <string name="close_rule">Zrušit všechny pravidla</string>
     <string name="confirm">OK</string>
     <string name="confirm_clear_blacklist">Opravdu chcete vymazat černou listinu?</string>
     <string name="confirm_clear_whitelist">Opravdu chcete vymazat bílou listinu?</string>
@@ -128,4 +129,5 @@
     <string name="save_button">Uložit</string>
     <string name="show_firewall_notification">Zobrazit upozornění firewallu</string>
     <string name="show_notification">Zobrazit upozornění</string>
+    <string name="whitelist_tab_title">Bílá listina</string>
 </resources>
