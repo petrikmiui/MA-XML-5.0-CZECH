@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="download_filters">
+        <item>Vše</item>
+        <item>Témata</item>
+        <item>Market</item>
+        <item>Prohlížeč</item>
+        <item>Hudba</item>
+        <item>Ostatní</item>
+    </string-array>
+</resources>

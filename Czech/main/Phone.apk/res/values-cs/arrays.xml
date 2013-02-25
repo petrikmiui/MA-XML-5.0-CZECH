@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>Nastavení sítě</item>
+        <item>Skrýt číslo</item>
+        <item>Zobrazit číslo</item>
+    </string-array>
+   <string-array name="preferred_network_mode_choices">
+        <item>LTE/CDMA</item>
+        <item>Pouze EvDo</item>
+        <item>CDMA w/o EvDo</item>
+        <item>Automaticky CDMA / EvDo</item>
+        <item>Automaticky GSM / WCDMA</item>
+        <item>Pouze WCDMA</item>
+        <item>Pouze GSM</item>
+        <item>GSM / WCDMA preferováno</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (auto režim)</item>
+        <item>Pouze WCDMA</item>
+        <item>Pouze GSM</item>
+        <item>GSM/WCDA (preferovat WCDMA)</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY vypnuto</item>
+        <item>Plné TTY</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normální</item>
+        <item>Dlouhé</item>
+    </string-array>
+    <string-array name="voicemail_notification_vibrate_when_entries">
+        <item>Vždy</item>
+        <item>Pouze v tichém režimu</item>
+        <item>Nikdy</item>
+    </string-array>
+</resources>

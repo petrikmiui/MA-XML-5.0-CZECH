@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+    <string-array name="google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>http://www.google.com/favicon.ico</item>
+        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+    </string-array>   
+    <string-array name="pref_content_plugins_choices">
+        <item>Vždy zapnuto</item>
+        <item>Vypnuto</item>
+        <item>Zeptat se</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Aktuální stránka</item>
+        <item>MIUI home</item>
+        <item>Prázdná stránka</item>
+        <item>Výchozí stránka</item>
+        <item>Nejnavštěvovanější weby</item>
+        <item>Jiná</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Velmi malý</item>
+        <item>Malý</item>
+        <item>Normální</item>
+        <item>Velký</item>
+        <item>Velmi velký</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Daleko</item>
+        <item>Střední</item>
+        <item>Blízko</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>Nikdy</item>
+        <item>Pouze v sítích Wi-Fi</item>
+        <item>Vždy</item>
+    </string-array>
+    <string-array name="pref_volume_key_choices">
+        <item>Stránka nahoru/dolů</item>
+        <item>Přepnout záložku</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_choices">
+        <item>Stránka další/předchozí</item>
+        <item>Přepnout záložku</item>
+    </string-array>    
+    <string-array name="pref_link_prefetch_choices">
+       <item>Nikdy</item>
+       <item>Pouze přes Wi-Fi</item>
+       <item>Vždy</item>
+    </string-array>
+</resources>

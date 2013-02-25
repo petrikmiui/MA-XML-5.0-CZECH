@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="traffic_sort_type">
+        <item>Řadit dle jména</item>
+        <item>Řadit dle 2G/3G provozu</item>
+        <item>Řadit dle celkového provozu</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>Provoz za včerejšek\u0020</item>
+        <item>Provoz za dnešek\u0020</item>
+        <item>Provoz za měsíc\u0020</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Včera 2G/3G</item>
+        <item>Dnes 2G/3G</item>
+        <item>Tento měsíc 2G/3G</item>
+    </string-array>
+	    <string-array name="date_of_app_all">
+        <item>Včera na 2G/3G</item>
+        <item>Dnes na 2G/3G</item>
+        <item>Tento měsíc na 2G/3G</item>
+        <item>Včera na Wi-Fi</item>
+        <item>Dnes na Wi-fi</item>
+        <item>Tento měsíc na Wi-Fi</item>
+    </string-array>
+</resources>
