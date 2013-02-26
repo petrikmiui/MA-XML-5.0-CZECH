@@ -37,7 +37,6 @@
     <string name="check_nothing">Zrušit všechna označení</string>
     <string name="clear_all_calllog">Smazat log hovorů</string>
     <string name="clear_all_mslog">Smazat log zpráv</string>
-    <string name="close_rule">Zakázat pravidla firewallu.</string>
     <string name="close_rule">Zrušit všechny pravidla</string>
     <string name="confirm">OK</string>
     <string name="confirm_clear_blacklist">Opravdu chcete vymazat černou listinu?</string>
