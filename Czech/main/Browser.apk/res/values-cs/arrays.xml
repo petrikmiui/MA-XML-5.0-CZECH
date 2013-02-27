@@ -10,15 +10,14 @@
     </string-array>   
     <string-array name="pref_content_plugins_choices">
         <item>Vždy zapnuto</item>
-        <item>Vypnuto</item>
+        <item>Vždy vypnuto</item>
         <item>Zeptat se</item>
     </string-array>
     <string-array name="pref_homepage_choices">
         <item>Aktuální stránka</item>
-        <item>MIUI home</item>
+        <item>Stránka MIUI</item>
         <item>Prázdná stránka</item>
-        <item>Výchozí stránka</item>
-        <item>Nejnavštěvovanější weby</item>
+        <item>Nejnavštěvovanější stránky</item>
         <item>Jiná</item>
     </string-array>
     <string-array name="pref_text_size_choices">
@@ -26,7 +25,7 @@
         <item>Malý</item>
         <item>Normální</item>
         <item>Velký</item>
-        <item>Velmi velký</item>
+        <item>Největší</item>
     </string-array>
     <string-array name="pref_default_zoom_choices">
         <item>Daleko</item>
@@ -50,5 +49,10 @@
        <item>Nikdy</item>
        <item>Pouze přes Wi-Fi</item>
        <item>Vždy</item>
+    </string-array>
+    <string-array name="pref_video_preload_choices">
+        <item>Nikdy</item>
+        <item>Pouze přes Wi-Fi</item>
+        <item>Vždy</item>
     </string-array>
 </resources>
