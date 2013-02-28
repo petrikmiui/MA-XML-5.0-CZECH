@@ -40,7 +40,6 @@
     <string name="birthday_notification_age_term" />  
     <string name="birthday_notification_type_term_lunar" />
     <string name="calendar_refresh">Aktualizovat</string>
-    <string name="change_response_title">Změnit odpověď</string>
     <string name="copy_db">Odeslat databázi</string>
     <string name="copy_email">Kopírovat emailovou adresu</string>
     <string name="copy_number">Kopírovat číslo telefonu</string>
@@ -90,6 +89,7 @@
     <string name="hint_description">Popis</string>
     <string name="hint_what">Název události</string>
     <string name="hint_where">Místo</string>
+    <string name="change_response_title">Změnit odpověď</string>
     <string name="jump_date">Skoč</string>
     <string name="jump_date_full">Skoč na datum</string>
     <string name="loading">Načítání\u2026</string>
@@ -99,6 +99,9 @@
     <string name="menu_general_preferences">Obecná nastavení</string>
     <string name="menu_preferences">Nastavení</string>
     <string name="menu_select_visible_calendars">Kalendáře k zobrazení</string>
+    <string name="miui_chinese_week_range_double" />
+    <string name="miui_chinese_week_range_single" />
+    <string name="miui_menu_create_event">Nová</string>
     <string name="modify_all">Změnit všechny události v sérii</string>
     <string name="modify_all_following">Změnit tuto událost a všechny budoucí</string>
     <string name="modify_event">Změnit pouze tuto událost</string>
@@ -123,6 +126,8 @@
     <string name="preferences_alerts_title">Upozornění</string>
     <string name="preferences_alerts_vibrateWhen_title">Vibrace</string>
     <string name="preferences_build_version">Verze sestavení</string>
+    <string name="preferences_category_account_title">Účet</string>
+    <string name="preferences_category_general_title">Všeobecná</string>
     <string name="preferences_clear_search_history_summary">Odstranit všechna provedená vyhledávání</string>
     <string name="preferences_clear_search_history_title">Vymazat historii vyhledávání</string>
     <string name="preferences_default_reminder_default">10</string>
