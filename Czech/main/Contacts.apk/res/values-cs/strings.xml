@@ -509,7 +509,7 @@
     <string name="nicknameLabelsGroup">Jméno kontaktu</string>
     <string name="no_account_prompt">"Aplikace Kontakty pracuje lépe s účtem Google. • Použijte je na každém prohlížeči. • Zálohování kontaktů."</string>
     <string name="no_contact_details">Pro tento účet nejsou dostupné žádné informace</string>
-    string name="no_contact_in_other_phone">Žádné kontakty ve Vašem telefonu</string>
+    <string name="no_contact_in_other_phone">Žádné kontakty ve Vašem telefonu</string>
     <string name="no_contacts_dialog_message">Ve Vašich kontaktech se nic nenašlo. Možná jsou uloženy na SIM kartě, importujte je do telefonu.</string>
     <string name="no_contacts_dialog_title">Kontakt se nenašel</string>
     <string name="no_contacts_selected">Nejsou vybrány žádné kontakty.</string>
