@@ -373,8 +373,8 @@
     <string name="import_all_vcard_string">Importovat všechny vizitky</string>
     <string name="import_contact_card_button">Import</string>
     <string name="import_failure_no_vcard_file">Na SD kartě nebyla nalezena žádná vizitka</string>
-    <string name="import_from_sdcard">Importovat z SD karty</string>
-    <string name="import_from_sim">Importovat z karty SIM</string>
+    <string name="import_from_other_phone">Importovat z jiného telefonu</string>
+	<string name="import_from_sdcard">Importovat z SD karty</string>
     <string name="import_from_sim">Importovat z karty SIM</string>
 	<string name="import_multiple_vcard_string">Importovat více vizitek</string>
     <string name="import_name">Jméno</string>
