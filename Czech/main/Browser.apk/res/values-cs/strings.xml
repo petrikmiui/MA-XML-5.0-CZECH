@@ -261,7 +261,7 @@
     <string name="pref_content_open_in_background">Otevřít na pozadí</string>
     <string name="pref_content_open_in_background_summary">Otvírat nové panely na pozadí</string>
     <string name="pref_content_plugins">Povolit pluginy</string>
-    <string name="pref_content_search_engine">Nastavit vyhledávač</string>
+    <string name="pref_content_search_engine">Nastavit vyhledávání</string>
     <string name="pref_content_search_engine_summary">Vyberte vyhledávač</string>
     <string name="pref_content_title">Obsah stránky</string>
     <string name="pref_data_preload_dialogtitle">Přednahrání výsledků vyhledávání</string>
