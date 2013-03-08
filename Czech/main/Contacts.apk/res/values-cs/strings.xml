@@ -576,25 +576,9 @@ Pre pridanie kontaktu do obľúbených:
 	<string name="noContactHelpTextAccountsInfo">Synchronizujte Google nebo Exchange kontakty.</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">Obnoví data zálohována na účtu Xiaomi</string>
     <string name="noContacts">Žádné kontakty</string>
-    <string name="noContactsHelpText">"Nemáte žádné kontakty k zobrazení. Chcete-li přidat kontakty, stiskněte "<b><font fgcolor="#ffffffff">Menu</font></b>" a vyberte: "<b><font fgcolor="#ffffffff"
-                    ><li>"Účty - přidat nebo nakonfigurovat účet pro synchronizaci kontaktů s telefonem "</li></font></b>" "<b><font fgcolor="#ffffffff"><li>"Nový kopntakt - navázat kontakt
-                    "</li></font></b>" "<b><font fgcolor="#ffffffff"><li>"Zálohování a obnovení, import z SD karty, nebo SIM "</li></font></b>" "</string>
     <string name="noContactsHelpTextForCreateShortcut">Nemáte žádné kontakty, které by se daly zobrazit.</string>
-    <string name="noContactsHelpTextWithSync">"Nemáte žádné kontakty k zobrazení. Chcete-li přidat kontakty, stiskněte "<b><font fgcolor="#ffffffff">Menu</font></b>" a vyberte: "<b><font fgcolor="#ffffffff"
-                    ><li>"Účty - přidat nebo nakonfigurovat účet pro synchronizaci kontaktů s telefonem "</li></font></b>" "<b><font fgcolor="#ffffffff"><li>"Možnosti zobrazení - nastavení,
-                    které kontakty mají být viditelné "</li></font></b>" "<b><font fgcolor="#ffffffff"><li>"Nový kontakt - navázání kontaktu "</li></font></b>" "<b><font fgcolor="#ffffffff"
-                    ><li>"Zálohování a obnovení, import z SD karty nebo SIM "</li></font></b>" "</string>
     <string name="noContactsHelpTextWithSyncForCreateShortcut">Nemáte žádné kontakty, které by se daly zobrazit. Jestliže jste si právě vytvořil účet, tak může synchronizace pár minut trvat.</string>
-    <string name="noContactsNoSimHelpText">"Nemáte žádné kontakty k zobrazení. Chcete-li přidat kontakty, stiskněte "<b><font fgcolor="#ffffffff">Menu</font></b>" a vyberte: "<b><font fgcolor="#ffffffff"
-                    ><li>"Účty - přidat nebo nakonfigurovat účet pro synchronizaci kontaktů s telefonem "</li></font></b>" "<b><font fgcolor="#ffffffff"><li>"Nový kopntakt - vytvořit kontakt
-                    "</li></font></b>" "<b><font fgcolor="#ffffffff"><li>"Zálohování a obnovení, import z SD karty nebo SIM "</li></font></b>" "</string>
-    <string name="noContactsNoSimHelpTextWithSync">"Nemáte žádné kontakty k zobrazení. Chcete-li přidat kontakty, stiskněte "<b><font fgcolor="#ffffffff">Menu</font></b>" a vyberte: "<b><font
-                fgcolor="#ffffffff"><li>"Účty - přidat nebo nakonfigurovat účet pro synchronizaci kontaktů s telefonem "</li></font></b>" "<b><font fgcolor="#ffffffff"><li>"Možnosti zobrazení -
-                    a vyberte, které kontakty mají být viditelné "</li></font></b>" "<b><font fgcolor="#ffffffff"><li>"Nový kontakt - navázání kontaktu "</li></font></b>" "<b><font
-                fgcolor="#ffffffff"><li>"Zálohování a obnovení, import z SD karty nebo SIM "</li></font></b>" "</string>
     <string name="noContactsWithPhoneNumbers">Žádné kontakty s telefonními čísly.</string>
-    <string name="noFavoritesHelpText">"Nemáte žádné oblíbené. Chcete-li přidat kontakt do seznamu oblíbených položek: "<li>Stiskni <b>Kontakty</b>" "</li>" "<li>"Vyberte kontakt, který má být přidán do
-                    Oblíbených "</li>" "<li>"Zvolte hvězdičku vedle jména kontaktu "</li>" "</string>  
     <string name="noGroups">Žádné skupiny</string>
     <string name="noMatchingContacts">Nenalezeny žádné odpovídající kontakty.</string>
     <string name="non_phone_add_to_contacts">Přidat do kontaktů</string>
