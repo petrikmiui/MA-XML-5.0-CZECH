@@ -515,7 +515,7 @@
     <string name="no_contacts_selected">Nejsou vybrány žádné kontakty.</string>
     <string name="no_sdcard_message">Nebyla zjištěna žádná SD karta</string>
     <string name="noAccounts">Aby bylo možné vytvořit skupiny, musí výt vytvořen účet</string>
-    <string name="noContactsHelpText">"Nemáte žiadne kontakty na zobrazenie.
+    <string name="noContactsHelpText">"Nemáte žádné kontakty k zobrazení.
 
 Pre pridanie kontaktov, stlačte "<font fgcolor="#ffffffff"><b>Menu</b></font>", vyberte:
  
@@ -576,10 +576,7 @@ Pre pridanie kontaktu do obľúbených:
 	<string name="noContactHelpTextAccountsInfo">Synchronizujte Google nebo Exchange kontakty.</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">Obnoví data zálohována na účtu Xiaomi</string>
     <string name="noContacts">Žádné kontakty</string>
-    <string name="noContactsHelpTextForCreateShortcut">Nemáte žádné kontakty, které by se daly zobrazit.</string>
-    <string name="noContactsHelpTextWithSyncForCreateShortcut">Nemáte žádné kontakty, které by se daly zobrazit. Jestliže jste si právě vytvořil účet, tak může synchronizace pár minut trvat.</string>
-    <string name="noContactsWithPhoneNumbers">Žádné kontakty s telefonními čísly.</string>
-    <string name="noGroups">Žádné skupiny</string>
+    <string name="noGroups">Žádné skupiny.</string>
     <string name="noMatchingContacts">Nenalezeny žádné odpovídající kontakty.</string>
     <string name="non_phone_add_to_contacts">Přidat do kontaktů</string>
     <string name="non_phone_caption">Telefonní číslo</string>
