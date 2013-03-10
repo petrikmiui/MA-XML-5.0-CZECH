@@ -3,22 +3,18 @@
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">Zobrazuji %d kontaktů s telefonním číslem</item>
         <item quantity="one">Zobrazuji 1 kontakt s telefonním číslem</item>
-        <item quantity="few">Zobrazuji %d kontakty s telefonním číslem</item>
     </plurals>
     <plurals name="listTotalAllContacts">
         <item quantity="other">Zobrazuji %d kontaktů</item>
         <item quantity="one">Zobrazuji 1 kontakt</item>
-        <item quantity="few">Zobrazuji %d kontakty</item>
     </plurals>
     <plurals name="listFoundAllContacts">
         <item quantity="other">Nalezeno %d kontaktů</item>
         <item quantity="one">Nalezen 1 kontakt</item>
-        <item quantity="few">Nalezen %d kontakty</item>
     </plurals>
     <plurals name="searchFoundContacts">
         <item quantity="other">%d kontaktů</item>
         <item quantity="one">1 kontakt</item>
-        <item quantity="few">%d kontakty</item>
     </plurals>
     <plurals name="merge_info">
         <item quantity="other">Sloučeno %0$d položek</item>
@@ -36,6 +32,10 @@
         <item quantity="other">%1$d lidí</item>
         <item quantity="one">%1$d člověk</item>
     </plurals>
+    <plurals name="group_list_num_numbers_in_group">
+        <item quantity="other">%1$d čísel</item>
+        <item quantity="one">%1$d číslo</item> 
+    </plurals>
     <plurals name="notification_voicemail_title">
         <item quantity="other">%1$d Hlasových mailů</item>
         <item quantity="one">Hlasový mail</item>
@@ -44,5 +44,18 @@
         <item quantity="other">%1$d zvoleno</item>
         <item quantity="zero">%1$d zvoleno</item>
         <item quantity="one">%1$d zvolena</item>
+    </plurals>
+    <plurals name="picker_multi_title">
+        <item quantity="other">%1$d vybraných</item>
+        <item quantity="zero">%1$d vybraných</item>
+        <item quantity="one">%1$d vybraný</item>
+    </plurals>
+    <plurals name="group_add_success_toast">
+        <item quantity="other">Úspěšně přidaných %1$d lidí</item>
+        <item quantity="one">Úspěšně přidaný %1$d člověk</item>
+    </plurals>
+    <plurals name="smart_group_member_count">
+        <item quantity="other">%d lidí</item>
+        <item quantity="one">1 člověk</item>
     </plurals>
 </resources>
